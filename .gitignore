@@ -1,0 +1,76 @@
+*.env
+*.env
+# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Log Files
+*.log
+
+# IDE Directories
+.vscode/
+.idea/
+*.iml
+
+# Dotnet Tools
+.dotnet/
+.fuse_*  # Temporary file created during builds
+.history/
+
+# OS-specific Files
+.DS_Store
+._*
+
+# Package Management
+**/node_modules/
+**/packages/
+
+# Generated Files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+*.tsbuildinfo
+
+# Environment Variables
+.env
+.env.*
+
+# Test Coverage
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.cov
+*.xml
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.orig
+*.vspscc
+*.vssscc
+
+# Build Cache
+*.vs/
+.vs/
+
+# Database Files
+*.mdf
+*.ldf
+
+# macOS Finder Files
+.AppleDouble
+.LSOverride

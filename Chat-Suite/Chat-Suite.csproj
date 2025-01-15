@@ -7,4 +7,10 @@
     <RootNamespace>Chat_Suite</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="DotNetEnv" Version="3.1.1" />
+    <PackageReference Include="itext7" Version="8.0.1" />
+    <PackageReference Include="OpenAI" Version="2.1.0" />
+  </ItemGroup>
+
 </Project>

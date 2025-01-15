@@ -1,12 +1,3 @@
-
-using System;
-using static System.Environment;
-using DotNetEnv;
-
-
-
-string endpoint = GetEnvironmentVariable("ENDPOINT");
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
