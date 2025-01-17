@@ -1,6 +1,8 @@
 
+###A repo containing various ASP.NET MVC projects. Below are the links to each project's README file:
 
-
-[Chat-Suite README](Chat-Suite/Readme.md)
-[Dev-Blog README](Dev-Blog/Readme.md)
-[Menu-App README](Menu-App/Readme.md)
+<div style="display: flex; gap: 20px;">
+  <a href="Chat-Suite/Readme.md">Chat-Suite README</a>
+  <a href="Dev-Blog/Readme.md">Dev-Blog README</a>
+  <a href="Menu-App/Readme.md">Menu-App README</a>
+</div>
